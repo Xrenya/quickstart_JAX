@@ -33,7 +33,7 @@ Covering everything you need to know to get started with `Flax NNX API`!
 
 We cover NNX API, train(), eval(), optax, metrics, etc.
 
-[Jupyter Notebook #5](https://github.com/Xrenya/quickstart_JAX/blob/main/Tutorial_5_JAX_Zero2Hero.ipynb))
+[Jupyter Notebook #5](https://github.com/Xrenya/quickstart_JAX/blob/main/Tutorial_5_JAX_Zero2Hero.ipynb)
 
 ### Tutorial #6: Welcome to Flax NNX! - From Zero to Hero
 
