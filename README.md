@@ -35,5 +35,6 @@ We cover NNX API, train(), eval(), optax, metrics, etc.
 
 [Jupyter Notebook #5](https://github.com/Xrenya/quickstart_JAX/blob/main/Tutorial_5_JAX_Zero2Hero.ipynb)
 
-# Reference
+# References
 1. Based on [Get started with JAX! by ](https://github.com/gordicaleksa/get-started-with-JAX) with some minor updates. YouTube videos are available in the repo.
+2. [Flax NNX Docs](https://flax.readthedocs.io/en/latest/why.html)
