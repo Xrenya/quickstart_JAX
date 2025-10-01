@@ -28,5 +28,12 @@ We cover init, apply, TrainState, etc. and other idiosyncrasies like the usage o
 
 [Jupyter Notebook #4](https://github.com/Xrenya/quickstart_JAX/blob/main/Tutorial_4_JAX_Zero2Hero.ipynb)
 
+### Tutorial #5: Welcome to Flax NNX! - From Zero to Hero
+Covering everything you need to know to get started with `Flax NNX API`!
+
+We cover NNX API, train(), eval(), optax, metrics, etc.
+
+[Jupyter Notebook #4](https://github.com/Xrenya/quickstart_JAX/blob/main/Tutorial_5_JAX_Zero2Hero.ipynb)
+
 # Reference
 1. Based on [Get started with JAX! by ](https://github.com/gordicaleksa/get-started-with-JAX) with some minor updates. YouTube videos are available in the repo.
